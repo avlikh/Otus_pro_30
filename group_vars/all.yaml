@@ -1,0 +1,4 @@
+# Конфигурация Knocking Port
+kport1: "1111"
+kport2: "2222"
+kport3: "3333"
