@@ -348,4 +348,4 @@ vagrant@192.168.255.1's password:
 
 Проверим, что NGINX отзывается на запросы к хостовой машине по порту 8080:
 
-
+![image](https://github.com/avlikh/Otus_pro_30/blob/main/nginx.png)
